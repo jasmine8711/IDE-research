@@ -24,6 +24,7 @@
 ## Two negatives
 1. Too much extentions, and some of them suck.
 1. A lot to learn.
+1. If you want to compeletily using keyboard to control the command, it might be a little slower.
 
 # Download Visual Studio Code
 [download](https://code.visualstudio.com/)
