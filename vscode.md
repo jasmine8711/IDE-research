@@ -19,7 +19,7 @@
      
 
 ### No.1 Reason why you chose this IDE
-**Easy to start.**
+`Easy to start.`
 
 ## Two negatives
 1. Too much extentions, and some of them suck.
