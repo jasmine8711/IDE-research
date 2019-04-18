@@ -13,7 +13,7 @@
 
 ### My opinion
 
- 	- Fress
+ 	- Free
  	- VS code knows me
  	- Extentions
      
