@@ -43,7 +43,7 @@ https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
 
 
 ## 2.languages
-### html
+## html
 _Close tags_
 Tag elements are automatically closed when > of the opening tag is typed.
 
@@ -101,7 +101,7 @@ _Cheat Sheet_
 </div>
 ~~~~
 
-### css
+## css
 **p 10px**
 ```css
 {
