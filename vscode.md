@@ -45,7 +45,7 @@ https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
 ## 2.languages
 ## html
 _Close tags_
-Tag elements are automatically closed when > of the opening tag is typed.
+  Tag elements are automatically closed when > of the opening tag is typed.
 
 _Cheat Sheet_
 
