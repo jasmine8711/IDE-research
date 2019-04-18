@@ -31,7 +31,7 @@
 #Features
 ## 1.Keyboard shortcuts
 | Shortcut |  Function| 
----|:--:|---:
+----|----
 | ⌘P   |  Quick Open, Go to File.| 
 | ⇧⌘X  | Go to the Extensions view. | 
 |⇧⌥A   |Make a comment.|
