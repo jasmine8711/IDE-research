@@ -28,7 +28,7 @@
 # Download Visual Studio Code
 [download](https://code.visualstudio.com/)
 
-#Features
+# Features
 ## 1.Keyboard shortcuts
 | Shortcut |  Function| 
 ----|----
