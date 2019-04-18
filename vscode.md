@@ -130,7 +130,7 @@ The VS Code color picker UI is now available in HTML style sections.
 ## 
 
 
-#Extensions
+# Extensions
 
 
 1. Markdown Preview Enhanced
