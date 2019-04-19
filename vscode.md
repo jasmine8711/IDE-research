@@ -5,11 +5,11 @@
 
 ## Three positives
 ### VS code official document
->1. Available for macOS, Linux, and Windows.
+>1. Available across platforms.
 
->2. For serious coding, you'll often benefit from tools with more code understanding than just blocks of text. Visual Studio Code includes built-in support for IntelliSense code completion, rich semantic code understanding and navigation, and code refactoring.
+>2. Includes built-in support for IntelliSense code completion.
 
->3. And when the coding gets tough, the tough get debugging. Debugging is often the one feature that developers miss most in a leaner coding experience, so we made it happen. Visual Studio Code includes an interactive debugger, so you can step through source code, inspect variables, view call stacks, and execute commands in the console.
+>3. Visual Studio Code includes an interactive debugger.
 
 ### My opinion
 
