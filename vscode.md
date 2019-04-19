@@ -5,11 +5,11 @@
 
 ## Three positives
 ### VS code official document
->1. Available for macOS, Linux, and Windows.
+>1. Crossplatform
 
->2. For serious coding, you'll often benefit from tools with more code understanding than just blocks of text. Visual Studio Code includes built-in support for IntelliSense code completion, rich semantic code understanding and navigation, and code refactoring.
+>2. Intellisense code completion
 
->3. And when the coding gets tough, the tough get debugging. Debugging is often the one feature that developers miss most in a leaner coding experience, so we made it happen. Visual Studio Code includes an interactive debugger, so you can step through source code, inspect variables, view call stacks, and execute commands in the console.
+>3. Includes an interactive debugger.
 
 ### My opinion
 
@@ -135,28 +135,19 @@ The VS Code color picker UI is now available in HTML style sections.
 
 
 1. Markdown Preview Enhanced
-Markdown Preview Enhanced ported to vscode.
 ![vslogo](1.png)
 
 
 1. Preview on Web Server
-Preview Web Page on Web Server.
 ![vslogo](5.png)
 
  
 1. vscode-icons
-Icons for Visual Studio Code.
 ![vslogo](2.png)
 
 
 1. indent-rainbow
-Makes indentation easier to read.
 ![vslogo](3.png)
-
-1. Git History
-View git log, file history, compare branches or commits.
-![githistory](6.png)
-
 
 
 ## What do you think of VS Code?
