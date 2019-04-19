@@ -21,7 +21,7 @@
 ### No.1 Reason why you chose this IDE
 **Easy to start.**
 
-## Two negatives
+## Three negatives
 1. Too much extentions, and some of them suck.
 1. A lot to learn.
 1. If you want to compeletily using keyboard to control the command, it might be a little slower.
@@ -135,19 +135,28 @@ The VS Code color picker UI is now available in HTML style sections.
 
 
 1. Markdown Preview Enhanced
+Markdown Preview Enhanced ported to vscode.
 ![vslogo](1.png)
 
 
 1. Preview on Web Server
+Preview Web Page on Web Server.
 ![vslogo](5.png)
 
  
 1. vscode-icons
+Icons for Visual Studio Code.
 ![vslogo](2.png)
 
 
 1. indent-rainbow
+Makes indentation easier to read.
 ![vslogo](3.png)
+
+1. Git History
+View git log, file history, compare branches or commits.
+![githistory](6.png)
+
 
 
 ## What do you think of VS Code?
