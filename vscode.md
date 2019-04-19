@@ -13,13 +13,13 @@
 
 ### My opinion
 
- 	- Fress
+ 	- Free
  	- VS code knows me
  	- Extentions
      
 
 ### No.1 Reason why you chose this IDE
-**Easy to start.**
+`Easy to start.`
 
 ## Three negatives
 1. Too much extentions, and some of them suck.
@@ -29,10 +29,10 @@
 # Download Visual Studio Code
 [download](https://code.visualstudio.com/)
 
-#Features
+# Visual Studio Code Features
 ## 1.Keyboard shortcuts
 | Shortcut |  Function| 
----|:--:|---:
+----|----
 | ⌘P   |  Quick Open, Go to File.| 
 | ⇧⌘X  | Go to the Extensions view. | 
 |⇧⌥A   |Make a comment.|
@@ -44,11 +44,11 @@ https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
 
 
 ## 2.languages
-### html
-####_Close tags_
-Tag elements are automatically closed when > of the opening tag is typed.
+## html
+_Close tags_
+  Tag elements are automatically closed when > of the opening tag is typed.
 
-#### _Cheat Sheet_
+_Cheat Sheet_
 
 **html:5**
 ```
@@ -102,7 +102,7 @@ Tag elements are automatically closed when > of the opening tag is typed.
 </div>
 ~~~~
 
-### css
+## css
 **p 10px**
 ```css
 {
@@ -131,7 +131,7 @@ The VS Code color picker UI is now available in HTML style sections.
 ## 
 
 
-#Extensions
+# Extensions
 
 
 1. Markdown Preview Enhanced
