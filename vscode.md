@@ -125,6 +125,7 @@ _Cheat Sheet_
 
 ## color
 1. _Color picker_
+
 The VS Code color picker UI is now available in HTML style sections.
 ![color](color.png)
 
@@ -135,25 +136,30 @@ The VS Code color picker UI is now available in HTML style sections.
 
 
 1. Markdown Preview Enhanced
+
 Markdown Preview Enhanced ported to vscode.
 ![vslogo](1.png)
 
 
 1. Preview on Web Server
+
 Preview Web Page on Web Server.
 ![vslogo](5.png)
 
  
 1. vscode-icons
+
 Icons for Visual Studio Code.
 ![vslogo](2.png)
 
 
 1. indent-rainbow
+
 Makes indentation easier to read.
 ![vslogo](3.png)
 
 1. Git History
+
 View git log, file history, compare branches or commits.
 ![githistory](6.png)
 
